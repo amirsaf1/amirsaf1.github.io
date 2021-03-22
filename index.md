@@ -12,7 +12,7 @@
 
   <h1>Don't forget to visit our <strong>Instagram<strong> page too!<h1>
     <a href="https://www.instagram.com/kurohako/?hl=en">
-         <img alt="Kurohako" src="https://imgur.com/WXBgEEs"
+         <img alt="Kurohako" src="https://i.imgur.com/nKkm9Ez.jpg"
          width=150" height="70">
       </a>
       
